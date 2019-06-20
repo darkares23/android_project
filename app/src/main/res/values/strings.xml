@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plan Celular</string>
+    <string name="tvNumeroCelular">Número Celular</string>
+    <string name="tvTipoPlan">Tipo Plan</string>
+    <string name="tvValor">Valor</string>
+    <string name="rbOpcion1">Indefinido</string>
+    <string name="rbOpcion2">1000 Minutos</string>
+    <string name="rbOpcion3">500 Minutos</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnConsultar">Consultar</string>
+</resources>
